@@ -83,11 +83,6 @@ A API estará disponível em:
 
 Para aprender a usar cada funcionalidade da API, consulte os tutoriais detalhados:
 
-### 🚀 Início Rápido
-- [Índice de Tutoriais](INDICE_TUTORIAIS.md) - Visão geral de todos os tutoriais
-- [Guia Rápido](GUIA_RAPIDO.md) - Comece aqui para uma visão geral
-- [Tutorial: Fazer Login](TUTORIAL_FAZER_LOGIN.md) - Como fazer login e obter tokens
-
 ### 👤 Autenticação
 - [Tutorial: Criar Usuário](TUTORIAL_CRIAR_USUARIO.md) - Como criar um novo usuário
 - [Tutorial: Fazer Login](TUTORIAL_FAZER_LOGIN.md) - Como fazer login e obter token JWT
