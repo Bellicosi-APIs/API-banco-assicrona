@@ -255,7 +255,4 @@ api_bank/
 
 Este projeto é um exemplo educacional.
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
